@@ -1,0 +1,6 @@
+{
+  "name": "Student Marks Prediction",
+  "description": "Predict the mark of student based on how many hours he/she studied",
+  "repository": "https://github.com/I-am-vishalmaurya/linear_regression_model",
+  "keywords": ["python", "linear regression", "mark predictor"]
+}
