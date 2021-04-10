@@ -1,3 +1,3 @@
 # linear_regression_model
 
-https://linear-regression-by-vishal.herokuapp.com/predict
+https://linear-regression-model-vishal.herokuapp.com/
