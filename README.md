@@ -17,7 +17,7 @@ Alternatively, you can deploy your own copy of the app using this button:
 
 Here is the classification of different Iris flower species.
 
-![Web app Image of working](https://github.com/I-am-vishalmaurya/iris_classification/blob/master/iris_classification.png)
+![Web app Image of working](https://github.com/I-am-vishalmaurya/linear_regression_model/blob/master/Images/index_page%20image.png)
 
 Run this project locally
   Clone the repository and run it on Conda Environment with command 
@@ -30,6 +30,6 @@ _**----- Important Note -----**_<br />
 • If you encounter this webapp as shown in the picture given below, it is occuring just because **free dynos for this particular month provided by Heroku have been completely used.** _You can access the webpage on 1st of the next month._<br />
 • Sorry for the inconvenience.
 
-![Heroku-Error](application-error-heroku.png)
+![Heroku-Error](https://github.com/I-am-vishalmaurya/linear_regression_model/blob/master/Images/application-error-heroku.pngg)
 
 
