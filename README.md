@@ -4,6 +4,7 @@
 
 This project is used to predict the student score result based on how much time he/she given to study.
 It takes number of hours as input and predict the percentage of student.
+This project is done in GRIP Foundation for the Internship Task in Data Science and Business Analytics.
 
  This repository consists of files required to deploy a ___Machine Learning Web App___ created with ___Flask___ on ___Heroku___ platform.
 
